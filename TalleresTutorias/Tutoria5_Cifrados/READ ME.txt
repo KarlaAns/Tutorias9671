@@ -1,0 +1,11 @@
+-EncriptarGrupoNo1:
+	Ronny Ibarra 
+	Daniel Guaman
+	Milena Maldonado
+	Sebastián Rivera
+
+-CifradoGrupoNo4_MD5:
+	Alejandro Cuadrado
+	Jefferson Ulco
+	Karla Ansatuña
+	Matias Suarez
