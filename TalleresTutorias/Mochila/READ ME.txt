@@ -2,5 +2,12 @@
 	Milena Maldonado
 	Rony Ibarra
 	Daniel Guaman
+
 -EjercicioMochilaRivera:
 	Sebastian Rivera
+
+-TareaMochilaV2.0.0:
+	Karla Ansatuña
+	Alejandro Cuadrado
+	Matias Suarez
+	Jefferson Ulco
