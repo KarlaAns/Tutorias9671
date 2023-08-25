@@ -1,4 +1,7 @@
 LA TAREA VALE 1 PUNTO
+-MochilaV1.0.0:
+	Ariel Pozo
+	Carlos Campoverde
 -MochilaRecursivoV2:
 	Milena Maldonado
 	Rony Ibarra
